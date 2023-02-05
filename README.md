@@ -1,16 +1,13 @@
-# firebase
+Controle de Entrada - 100% Flutter
 
-A new Flutter project.
+Projeto para fazer o controle de pessoas em lugares específicos.
 
-## Getting Started
+Exemplo> Quando o Covid estava no auge e tinhamos que controlar a entrada de pessoas no local de um hospital ou mercado.
 
-This project is a starting point for a Flutter application.
+Obs. Sintam-se a vontade para copiar o código e altera-lo conforme desejarem.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/124528062/216841797-43fe5d42-eca3-45f0-977c-890772cec66d.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/124528062/216841812-fb24e7dc-8131-4185-8e8b-1cacb09cfe0f.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/124528062/216841822-8d904650-d811-408c-8c05-147426d9e346.png)
