@@ -47,6 +47,7 @@ class _MyAppState extends State<MyApp> {
               image: AssetImage(
                 'assets/images/5.jpg',
               ),
+
               fit: BoxFit.fitHeight,
             ),
           ),
